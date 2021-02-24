@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-This is my first repository and is more special, why this speak about me.
+This is my first repository and is the more special, why this speak about me.
 
 My name is Vinícius, and i'am currently working on Sicoob Cooplivre. I'am currently learning on Node.Js, ReactJs, TypeScript, JavaScript and Redux.
 I'm looking to collaborate with new technological solutions, that said, on here, you can get to know more about that I'm developing.
